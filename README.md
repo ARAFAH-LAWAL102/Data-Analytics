@@ -8,6 +8,7 @@ The goal of this project was to analyze furniture sales data in order to identif
 # Implementation
 
 I imported and cleaned the dataset using **Power Query**, handling missing values and formatting fields. I used **pivot tables** and **pivot chart**s in Excel to analyze sales, profit, quantity, and shipping trends across product categories and regions. Then, I built a fully interactive dashboard with dynamic **KPI cards**, trend charts, map visualizations, and slicers to allow users to filter by region and customer segment. The dashboard was designed to present key business insights in a clear, visual, and easy-to-use format.
+ <a href="https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/Excel%20Dashboard.png">View Dashboard</a>
 
  Key Metrics displayed on the dashboard includes:
 
@@ -27,7 +28,9 @@ vii) Delivery Duration
 
 viii) Top Categories and Products 
 
-ix) State and City Sales – 
+ix) State and City Sales  
+
+ ![Excel Dashboard](https://github.com/user-attachments/assets/325dadce-dbe8-4b5e-8e63-aac7dc050d9b)
 
 # Key Insights
 
