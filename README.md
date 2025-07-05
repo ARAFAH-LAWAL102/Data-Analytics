@@ -1,29 +1,30 @@
 # Furniture Sales Overview- Excel Project
+# Project Objective
 The goal of this project was to analyze furniture sales data in order to identify performance trends, uncover key business insights, and present them in a visual and interactive format that helps stakeholders make informed decisions about pricing, shipping, product focus, and regional strategy.
 
-Implementation
+# Implementation
 
-I imported and cleaned the dataset using Power Query, handling missing values and formatting fields. I used pivot tables and pivot charts in Excel to analyze sales, profit, quantity, and shipping trends across product categories and regions. Then, I built a fully interactive dashboard with dynamic KPI cards, trend charts, map visualizations, and slicers to allow users to filter by region and customer segment. The dashboard was designed to present key business insights in a clear, visual, and easy-to-use format.
+I imported and cleaned the dataset using **Power Query**, handling missing values and formatting fields. I used **pivot tables** and **pivot chart**s in Excel to analyze sales, profit, quantity, and shipping trends across product categories and regions. Then, I built a fully interactive dashboard with dynamic **KPI cards**, trend charts, map visualizations, and slicers to allow users to filter by region and customer segment. The dashboard was designed to present key business insights in a clear, visual, and easy-to-use format.
 
  Key Metrics displayed on the dashboard includes:
 
-i) Total Sales – Overall revenue generated from furniture sales
+i) Total Sales 
 
-ii) Total Profit – Earnings after cost of goods and expenses
+ii) Total Profit 
 
-iii) Quantity Sold – Total number of items sold
+iii) Quantity Sold 
 
-iv) Year-over-Year (YoY) Change – Growth or decline compared to the previous year
+iv) Year-over-Year (YoY) Change 
 
-v) Monthly Sales Trends – Identifies high-performing and low-performing months
+v) Monthly Sales Trends 
 
-vi) Shipping Mode Usage – Distribution across Standard, First Class, etc.
+vi) Shipping Mode Usage 
 
-vii) Delivery Duration – Number of days it took for orders to be delivered
+vii) Delivery Duration 
 
-viii) Top Categories and Products – Performance by product type
+viii) Top Categories and Products 
 
-ix) State and City Sales – Geographical distribution of sales 
+ix) State and City Sales – 
 
 # Key Insights
 
