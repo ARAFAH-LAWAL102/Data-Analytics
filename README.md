@@ -2,6 +2,9 @@
 # Project Objective
 The goal of this project was to analyze furniture sales data in order to identify performance trends, uncover key business insights, and present them in a visual and interactive format that helps stakeholders make informed decisions about pricing, shipping, product focus, and regional strategy.
 
+# Dataset Used
+- <a href="https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/Furniture%20Sales%20Dashboard.xlsx">Furniture Dataset</a>
+
 # Implementation
 
 I imported and cleaned the dataset using **Power Query**, handling missing values and formatting fields. I used **pivot tables** and **pivot chart**s in Excel to analyze sales, profit, quantity, and shipping trends across product categories and regions. Then, I built a fully interactive dashboard with dynamic **KPI cards**, trend charts, map visualizations, and slicers to allow users to filter by region and customer segment. The dashboard was designed to present key business insights in a clear, visual, and easy-to-use format.
