@@ -1,38 +1,28 @@
 # Furniture Sales Overview- Excel Project
-# Project Objective
-The goal of this project was to analyze furniture sales data in order to identify performance trends, uncover key business insights, and present them in a visual and interactive format that helps stakeholders make informed decisions about pricing, shipping, product focus, and regional strategy.
+# Project Background 
 
-# Dataset Used
-- <a href="https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/Furniture%20Sales%20Dashboard.xlsx">Furniture Dataset</a>
 
-# Implementation
+A U.S.-based furniture retailer was facing challenges with understanding product performance, regional sales trends, and shipping efficiency. Business decisions were often based on static reports, making it difficult to identify growth opportunities or address operational issues.
 
-I imported and cleaned the dataset using **Power Query**, handling missing values and formatting fields. I used **pivot tables** and **pivot chart**s in Excel to analyze sales, profit, quantity, and shipping trends across product categories and regions. Then, I built a fully interactive dashboard with dynamic **KPI cards**, trend charts, map visualizations, and slicers to allow users to filter by region and customer segment. The dashboard was designed to present key business insights in a clear, visual, and easy-to-use format.
+To support data-driven decision-making, this project analyzed historical furniture sales data to uncover key insights on:
+
+- Product and category performance
+- Shipping cost and delivery trends
+- Regional sales patterns
+- Profitability across segments
+# Executive Overview 
+Overview 
+
+Sales peaked in December at $47.4K, highlighting strong year-end demand.
+Chairs led all products with $328.4K in total sales, showing high customer interest.
+Standard Class accounted for 59% of orders, but most deliveries still took 4 days.
+Despite an 8% sales increase, profit dropped 57%, signaling pricing or cost issues. 
+
  <a href="https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/Excel%20Dashboard.png">View Dashboard</a>
 
- Key Metrics displayed on the dashboard includes:
+Interactive Excel dashboard ![View Dashboard](https://github.com/user-attachments/assets/325dadce-dbe8-4b5e-8e63-aac7dc050d9b)
 
-i) Total Sales 
-
-ii) Total Profit 
-
-iii) Quantity Sold 
-
-iv) Year-over-Year (YoY) Change 
-
-v) Monthly Sales Trends 
-
-vi) Shipping Mode Usage 
-
-vii) Delivery Duration 
-
-viii) Top Categories and Products 
-
-ix) State and City Sales  
-
- ![Excel Dashboard](https://github.com/user-attachments/assets/325dadce-dbe8-4b5e-8e63-aac7dc050d9b)
-
-# Key Insights
+# Insights Deep Dive
 
 i) Profit decreased by 57% despite an 8% increase in sales, suggesting possible cost or pricing issues.
 
