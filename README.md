@@ -10,8 +10,8 @@ To support data-driven decision-making, this project analyzed historical furnitu
 - Shipping cost and delivery trends
 - Regional sales patterns
 - Profitability across segments
-# Executive Overview 
-Overview 
+# Executive Summary 
+### Overview of Findings 
 
 Sales peaked in December at $47.4K, highlighting strong year-end demand.
 Chairs led all products with $328.4K in total sales, showing high customer interest.
@@ -24,17 +24,23 @@ Interactive Excel dashboard ![View Dashboard](https://github.com/user-attachment
 
 # Insights Deep Dive
 
-i) Profit decreased by 57% despite an 8% increase in sales, suggesting possible cost or pricing issues.
+### Product & Profitability Trends
+- Profit dropped by 57% despite an 8% increase in sales, indicating pricing or cost inefficiencies.
 
-ii) Standard Class was the most used shipping mode, making up 59% of orders.
+- Chairs generated the highest revenue with $328.4K in total sales, reflecting strong customer interest.
 
-iii) Most orders were delivered in 4 days, showing potential to improve delivery speed. 
- 
-iv) Chairs had the highest sales, totaling $328.4K, indicating strong customer demand.
+- Sales peaked in December at $47.4K, suggesting a key seasonal opportunity.
 
-v) New York City led all cities in sales, followed by Seattle and San Francisco.
+### Shipping & Delivery Insights
+- Standard Class shipping accounted for 59% of total orders.
 
-vi) December was the peak month for sales, suggesting a strong seasonal opportunity.
+- Most deliveries still took 4 days, suggesting a gap in delivery efficiency despite high usage of Standard Class.
+
+### Regional Sales Patterns
+- New York City led all cities in sales, followed by Seattle and San Francisco.
+
+- Geographic differences were significant in driving revenue, showing potential for expansion in underserved regions.
+
 
 # Recommendations
 
