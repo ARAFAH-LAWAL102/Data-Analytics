@@ -1,19 +1,33 @@
 # Furniture Sales Overview- Excel Project
-# Project Background 
+# Project Overview
+
+This project analyzes historical furniture sales data for a U.S.-based retailer to enable data-driven decision-making. The goal was to uncover insights on product performance, regional sales trends, shipping efficiency, and profitability to help stakeholders optimize sales strategy and improve operations.
 
 
-A U.S.-based furniture retailer was facing challenges with understanding product performance, regional sales trends, and shipping efficiency. Business decisions were often based on static reports, making it difficult to identify growth opportunities or address operational issues.
-The goal of this project was to enable data-driven decision-making by analyzing historical furniture sales data to uncover insights on:
+## Business Objectives
 
-- Product & Category Performance – identify top- and low-performing products
-- Shipping Cost & Delivery Trends – highlight areas for cost optimization
-- Regional Sales Patterns – understand which regions drive revenue growth
-- Profitability Across Segments – reveal where the business gains or loses profit
+- Product & Category Performance – Identify top- and low-performing products
 
-This analysis aimed to empower stakeholders with clear, interactive dashboards and actionable recommendations to improve sales strategy, optimize operations, and boost overall profitability.
+- Shipping Cost & Delivery Trends – Highlight areas for cost and time optimization
+
+- Regional Sales Patterns – Discover which regions drive revenue growth
+
+- Profitability Across Segments – Reveal where the business gains or loses profit
+  
+## Tools & Skills Used
+
+Excel: Data cleaning, data formatting, PivotTables, PivotCharts
+
+Data Analysis: Trend analysis, profitability analysis, shipping performance review
+
+Dashboard Design: KPI cards, dynamic slicers, map visualizations, interactive filtering
+
+Soft Skills: Problem-solving, business storytelling, insight communication
+
+
 
 # Implementation
-- Data Preparation: Loaded the dataset in Microsoft Excel, cleaned missing values, standardized data types, and ensured consistent formatting.
+-  Data Preparation: Loaded the dataset in Microsoft Excel, cleaned missing values, standardized data types, and ensured consistent formatting. ![view](https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/clean%20data.png)
 
 - Analysis: Built PivotTables and PivotCharts to explore sales, profit, quantity, and shipping trends across product categories, regions, and customer segments.![view](https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/PIVOT%20TABLE.png)
 
@@ -23,13 +37,11 @@ This analysis aimed to empower stakeholders with clear, interactive dashboards a
  <a href="https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/Excel%20Dashboard.png">View Dashboard</a>
 
 Interactive Excel dashboard ![View Dashboard](https://github.com/user-attachments/assets/325dadce-dbe8-4b5e-8e63-aac7dc050d9b)
-# Executive Summary 
-### Overview of Findings 
-
-Sales peaked in December at $47.4K, highlighting strong year-end demand.
+#  Stakeholder Storytelling
+*My Analysis shows that while sales grew 8%, profit dropped 57%, signaling that costs need closer review. Sales peaked in December at $47.4K, highlighting strong year-end demand.
 Chairs led all products with $328.4K in total sales, showing high customer interest.
 Standard Class accounted for 59% of orders, but most deliveries still took 4 days.
-Despite an 8% sales increase, profit dropped 57%, signaling pricing or cost issues. 
+Despite an 8% sales increase, profit dropped 57%, signaling pricing or cost issues.*
 
 # Insights Deep Dive
 
@@ -62,3 +74,4 @@ iii) Focus on year-end sales campaigns, since December showed the highest sales 
 iv) Promote popular products like chairs and furnishings to increase revenue.
 
 v) Target low-performing states and cities to expand customer reach and grow sales.
+
