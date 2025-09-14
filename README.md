@@ -14,15 +14,6 @@ This project analyzes historical furniture sales data for a U.S.-based retailer 
 
 - Profitability Across Segments – Reveal where the business gains or loses profit
   
-## Tools & Skills Used
-
-Excel: Data cleaning, data formatting, PivotTables, PivotCharts
-
-Data Analysis: Trend analysis, profitability analysis, shipping performance review
-
-Dashboard Design: KPI cards, dynamic slicers, map visualizations, interactive filtering
-
-Soft Skills: Problem-solving, business storytelling, insight communication
 
 
 
