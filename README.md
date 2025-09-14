@@ -18,7 +18,9 @@ Chairs led all products with $328.4K in total sales, showing high customer inter
 Standard Class accounted for 59% of orders, but most deliveries still took 4 days.
 Despite an 8% sales increase, profit dropped 57%, signaling pricing or cost issues. 
 # Implementation
-I loade the data in Microsoft Excel and cleaned the dataset by handling missing values and formatting data types. I created pivot tables and pivot charts in Excel to analyze sales, profit, quantity, and shipping trends across product categories and regions. Then, I built a fully interactive dashboard with dynamic KPI cards, trend charts, map visualizations, and slicers to allow users to filter by region and customer segment. The dashboard was designed to present key business insights in a clear, visual, and easy-to-use format.
+I loade the data in Microsoft Excel and cleaned the dataset by handling missing values and formatting data types. I created pivot tables and pivot charts in Excel to analyze sales, profit, quantity, and shipping trends across product categories and regions.![view](https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/PIVOT%20TABLE.pngThen)
+
+After which, I built a fully interactive dashboard with dynamic KPI cards, trend charts, map visualizations, and slicers to allow users to filter by region and customer segment. The dashboard was designed to present key business insights in a clear, visual, and easy-to-use format.
 
  <a href="https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/Excel%20Dashboard.png">View Dashboard</a>
 
