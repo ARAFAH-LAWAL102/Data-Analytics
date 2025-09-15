@@ -29,7 +29,7 @@ This project analyzes historical furniture sales data for a U.S.-based retailer 
 
 Interactive Excel dashboard ![View Dashboard](https://github.com/user-attachments/assets/325dadce-dbe8-4b5e-8e63-aac7dc050d9b)
 #  Stakeholder Storytelling
-*My Analysis shows that while sales grew 8%, profit dropped 57%, signaling that costs need closer review. Sales peaked in December at $47.4K, highlighting strong year-end demand.
+*My Analysis shows that while sales grew 8%, profit dropped 57%, signaling that costs need closer review. Sales peaked in December at $121.8K, highlighting strong year-end demand.
 Chairs led all products with $328.4K in total sales, showing high customer interest.
 Standard Class accounted for 59% of orders, but most deliveries still took 4 days.
 Despite an 8% sales increase, profit dropped 57%, signaling pricing or cost issues.*
@@ -41,7 +41,7 @@ Despite an 8% sales increase, profit dropped 57%, signaling pricing or cost issu
 
 - Chairs generated the highest revenue with $328.4K in total sales, reflecting strong customer interest.
 
-- Sales peaked in December at $47.4K, suggesting a key seasonal opportunity.
+- Sales peaked in December at $121.8K, suggesting a key seasonal opportunity.
 
 ### Shipping & Delivery Insights
 - Standard Class shipping accounted for 59% of total orders.
@@ -51,7 +51,7 @@ Despite an 8% sales increase, profit dropped 57%, signaling pricing or cost issu
 ### Regional Sales Patterns
 - New York City led all cities in sales, followed by Seattle and San Francisco.
 
-- Geographic differences were significant in driving revenue, showing potential for expansion in underserved regions.
+
 
 
 # Recommendations
