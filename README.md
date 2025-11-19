@@ -1,7 +1,7 @@
 # Furniture Sales Overview- Excel Project
 # Project Overview
 
-This project analyzes historical furniture sales data for a U.S.-based retailer to enable data-driven decision-making. The goal was to uncover insights on product performance, regional sales trends, shipping efficiency, and profitability to help stakeholders optimize sales strategy and improve operations.
+This project analyzes furniture sales data for a U.S.-based retailer to enable data-driven decision-making. The goal was to uncover insights on product performance, regional sales trends, shipping efficiency, and profitability to help stakeholders optimize sales strategy and improve operations.
 
 
 ## Business Objectives
@@ -51,7 +51,7 @@ Despite an 8% sales increase, profit dropped 57%, signaling pricing or cost issu
 ### Regional Sales Patterns
 - New York City led all cities in sales, followed by Seattle and San Francisco.
 
-
+---
 
 
 # Recommendations
@@ -65,4 +65,12 @@ iii) Focus on year-end sales campaigns, since December showed the highest sales 
 iv) Promote popular products like chairs and furnishings to increase revenue.
 
 v) Target low-performing states and cities to expand customer reach and grow sales.
+
+
+
+---
+
+## 📬 Contact  
+For collaboration or feedback:  
+**LinkedIn:** https://www.linkedin.com/in/arafah-a-lawal  
 
