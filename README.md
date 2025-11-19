@@ -25,9 +25,9 @@ This project analyzes furniture sales data for a U.S.-based retailer to enable d
 - Dashboard Design: Created an interactive Excel dashboard featuring KPI cards, monthly trend charts, map visualizations, and slicers for region and customer segment filtering — allowing users to explore insights dynamically.
 
 
- <a href="https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/Excel%20Dashboard.png">View Dashboard</a>
+ [View the Intearctive Dashboard here](https://github.com/ARAFAH-LAWAL102/Data-Analytics/blob/main/Furniture%20Sales%20Dashboard.xlsx)
 
-Interactive Excel dashboard ![View Dashboard](https://github.com/user-attachments/assets/325dadce-dbe8-4b5e-8e63-aac7dc050d9b)
+ ![View Dashboard](https://github.com/user-attachments/assets/325dadce-dbe8-4b5e-8e63-aac7dc050d9b)
 #  Stakeholder Storytelling
 *My Analysis shows that while sales grew 8%, profit dropped 57%, signaling that costs need closer review. Sales peaked in December at $121.8K, highlighting strong year-end demand.
 Chairs led all products with $328.4K in total sales, showing high customer interest.
